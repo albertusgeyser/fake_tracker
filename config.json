@@ -1,0 +1,17 @@
+{
+  "broker": "mqtt.dev.jennyme.co.za",
+  "port": 1888,
+  "topic": "jennydfe/vehicles/",
+  "username": "jenny",
+  "password": "wortel",
+  "client_id_prefix": "publish",
+  "start_latitude": -26.9385589,
+  "start_longitude": 29.2436898,
+  "end_latitude": -28.558482,
+  "end_longitude": 29.781512,
+  "imei_number": "019431218720874",
+  "tag_id": "4F2A9B71C3E8F0A2"
+}
+
+
+
